@@ -5,9 +5,11 @@
 
 My hobbies include:
 
-    Strength Training 🏋️ (currently in my volume-block)
-    Learning Techniques 📗 (practicing mind-mapping & kolbs)
-    Watching Anime (watching ⚔️⚜️⛩🔰)
+- Strength Training 🏋️ (currently in my volume-block)
+
+- Learning Techniques 📗 (practicing mind-mapping & kolbs)
+
+- Watching Anime (watching ⚔️⚜️⛩🔰)
 
 <h2 align="left">Feel free to reach out to me at dylanrcastillo@outlook.com</h2>
 <p align="left">
