@@ -9,7 +9,7 @@ My hobbies include:
     Learning Techniques 📗 (practicing mind-mapping & kolbs)
     Watching Anime (watching ⚔️⚜️⛩🔰)
 
-<h3 align="left">Feel free to reach out to me at dylanrcastillo@outlook.com</h3>
+<h2 align="left">Feel free to reach out to me at dylanrcastillo@outlook.com</h2>
 <p align="left">
 </p>
 
