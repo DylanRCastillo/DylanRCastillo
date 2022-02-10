@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋! </h1>
 <h3 align="center">Data analyst who loves to wrangle data to create <ins>growth-driven</ins> business decisions</h3>
 
-🐘 Currently exploring the Hadoop ecosystem to wrangle Big Data.
+🐘 Currently working toward an AWS Practitioner Certificate.
 
 My hobbies include:
 
