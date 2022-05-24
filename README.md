@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋! </h1>
 <h3 align="center">Data analyst who loves to wrangle data to create <ins>growth-driven</ins> business decisions</h3>
 
-🐘 Currently working toward an AWS Practitioner Certificate.
+🐘 Currently working toward AZ-900 Fundamentals.
 
 My hobbies include:
 
